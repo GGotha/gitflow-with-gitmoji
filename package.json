@@ -1,0 +1,10 @@
+{
+  "name": "gitflow-with-gitmoji",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GGotha <snakygamer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gitmoji-cli": "^3.2.1"
+  }
+}
